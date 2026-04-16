@@ -87,6 +87,16 @@
       "min_stock": 20,
       "price": 890,
       "created_at": "2026-04-16T00:07:41.358Z"
+    },
+    {
+      "id": 6,
+      "name": "Jabón de tocador",
+      "description": "Jabón en barra 120g",
+      "category_id": 1,
+      "quantity": 10,
+      "min_stock": 5,
+      "price": 850,
+      "created_at": "2026-04-16T01:38:34.516Z"
     }
   ],
   "movements": [
@@ -103,7 +113,7 @@
   "counters": {
     "users": 2,
     "categories": 3,
-    "products": 5,
+    "products": 6,
     "movements": 1
   }
 }
